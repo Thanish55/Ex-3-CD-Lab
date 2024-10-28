@@ -1,6 +1,6 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-## Name: Aishwarya S
-## Register No : 212222100003
+## Name: THANISH N
+## Register No : 212223220117
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
